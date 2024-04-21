@@ -1,30 +1,49 @@
-# React + TypeScript + Vite
+<p align="center">
+  <img width="20%" src="./src/assets/logo.svg" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+    <strong>To do list.</strong>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> • 
+ <a href="#-layout">Layout</a> • 
+ <a href="#-tecnologias-utilizadas">Tecnologias</a> • 
+ <a href="#-instalação-e-uso">Instalação</a> • 
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h4 align="center"> 
+	🚧  Projeto concluído 🚀 🚧
+</h4>
 
-## Expanding the ESLint configuration
+##  Sobre o projeto
+Desafio referente a criação de uma lista de tarefas desenvolvido no curso de react js da rocketseat 
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Tecnologias utilizadas
 
-- Configure the top-level `parserOptions` property like this:
+As seguintes ferramentas foram usadas na construção do projeto:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+- **[ReactJS](https://reactjs.org/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Vite](https://vitejs.dev/)**
+
+## Instalação e uso
+
+```bash
+# Clone o repositório
+git clone https://github.com/mateusabelli/ignite-todo-app.git
+
+# Acesse a pasta do projeto
+cd ignite-todo-app
+
+# Instale as dependências
+npm install
+
+# Execute a aplicação
+npm run dev
+
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
