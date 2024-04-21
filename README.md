@@ -10,13 +10,13 @@
 Desafio referente a criação de uma lista de tarefas desenvolvido no curso de react js da rocketseat 
 
 <p align="center">
-  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/af965548-e5dc-4643-a390-49acf7a2e611" width="100px">
-  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/eacc5a35-2cb6-4469-a2b7-bc01a0a25054">
+  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/af965548-e5dc-4643-a390-49acf7a2e611" width="480px">
+  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/eacc5a35-2cb6-4469-a2b7-bc01a0a25054" width="480px">
 </p>
 
 <p align="center">
-  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/5bf654aa-9a9e-4cd2-9c11-d8f8624d1cda">
-  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/3c8582a2-db00-46c4-8551-60a026c4c17d">
+  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/5bf654aa-9a9e-4cd2-9c11-d8f8624d1cda" width="360px">
+  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/8fbb5330-d604-47e3-aa3e-7323c752821f" width="360px">
 </p>
 
 ## Tecnologias utilizadas
