@@ -15,8 +15,8 @@ Desafio referente a criação de uma lista de tarefas desenvolvido no curso de r
 </p>
 
 <p align="center">
-  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/5bf654aa-9a9e-4cd2-9c11-d8f8624d1cda" width="360px">
-  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/8fbb5330-d604-47e3-aa3e-7323c752821f" width="360px">
+  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/5bf654aa-9a9e-4cd2-9c11-d8f8624d1cda" width="360px" height="480">
+  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/8fbb5330-d604-47e3-aa3e-7323c752821f" width="360px" height="480">
 </p>
 
 ## Tecnologias utilizadas
