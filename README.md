@@ -9,7 +9,9 @@
 ##  Sobre o projeto
 Desafio referente a criação de uma lista de tarefas desenvolvido no curso de react js da rocketseat 
 
-![To do list](https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/31c091aa-9ec6-4981-ade0-4192b986acaf)
+<p align="center">
+  <img src="https://github.com/marcos1404/ToDo-List-Rocketseat/assets/50412001/31c091aa-9ec6-4981-ade0-4192b986acaf">
+</p>
 
 ## Tecnologias utilizadas
 
