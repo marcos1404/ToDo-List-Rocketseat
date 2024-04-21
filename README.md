@@ -1,22 +1,10 @@
 <p align="center">
-  <img width="20%" src="./src/assets/logo.svg" />
+  <img width="20%" src="./src/assets/Logo.svg" />
 </p>
 
 <p align="center">
     <strong>To do list.</strong>
 </p>
-
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> • 
- <a href="#-layout">Layout</a> • 
- <a href="#-tecnologias-utilizadas">Tecnologias</a> • 
- <a href="#-instalação-e-uso">Instalação</a> • 
-</p>
-
-<h4 align="center"> 
-	🚧  Projeto concluído 🚀 🚧
-</h4>
 
 ##  Sobre o projeto
 Desafio referente a criação de uma lista de tarefas desenvolvido no curso de react js da rocketseat 
